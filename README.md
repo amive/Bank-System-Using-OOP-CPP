@@ -59,25 +59,4 @@ A lightweight, console-based **Bank Management System** developed in C++ using O
 
 ---
 
-## 📁 Project Structure
-
-```text
-├── src/
-│   ├── main.cpp          # System driver and UI menu loop
-│   ├── Bank.cpp          # Core management logic
-│   ├── Account.cpp       # Base Account class implementation
-│   ├── Savings.cpp       # SavingsAccount specialization
-│   └── Checking.cpp      # CheckingAccount specialization
-├── include/
-│   ├── Bank.h
-│   ├── Account.h
-│   ├── Savings.h
-│   └── Checking.h
-└── README.md
-```
-
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
