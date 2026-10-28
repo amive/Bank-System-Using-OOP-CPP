@@ -43,8 +43,8 @@ A lightweight, console-based **Bank Management System** developed in C++ using O
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/bank-system-cpp.git
-   cd bank-system-cpp
+   git clone https://github.com/amive/Bank-System-Using-OOP-CPP
+   cd Bank-System-Using-OOP-CPP
    ```
 
 2. **Compile the code:**
